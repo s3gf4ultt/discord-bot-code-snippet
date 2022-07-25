@@ -1,0 +1,18 @@
+{
+  "name": "bottemplate",
+  "version": "1.0.0",
+  "description": "snippet to create bots/selfbots for Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bots"
+  ],
+  "author": "Carlos Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.4.5",
+    "fs": "^0.0.1-security"
+  }
+}
